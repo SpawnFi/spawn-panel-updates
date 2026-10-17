@@ -1,10 +1,10 @@
 {
  "name": "spawnpanel",
- "version": "5.9.1",
- "file": "spawnpanel-5.9.1.pkg",
- "size": 145901,
- "sha256": "976d92bf1d35440100e84f683ada7dbdb0e9f416b4845f8dd71370d695ea57a7",
- "sig": "6W0+G99H8jLn7GTcL5cYo607IRgExZ/g5aaTfsFfr8H7Z8+zd7jMcWezKAUdnaYI1koXMizZrCy8C/51ouz7Dw==",
- "notes": "First update through the Update button. Nothing else changes.",
- "published": "2026-10-17T09:35:29.978Z"
+ "version": "5.9.2",
+ "file": "spawnpanel-5.9.2.pkg",
+ "size": 146134,
+ "sha256": "456cc3cc57da6051ca083f5641f658c2bbdfd12e322df0628856564126a1f4b7",
+ "sig": "A2gjNFsHlrJWaBinBYtTJ6jzkrrHoT9pouaFajPTVI9vJ1VJ1kJkOq13Sqi4EfwXw69uXWM1BIKquWUtsHKxCQ==",
+ "notes": "Phones: a Panel updates button on the Routers page (the bottom-left Updates link is hidden on small screens).",
+ "published": "2026-10-17T11:18:56.638Z"
 }
