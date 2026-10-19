@@ -1,10 +1,10 @@
 {
  "name": "spawnpanel",
- "version": "5.11",
- "file": "spawnpanel-5.11.pkg",
- "size": 157134,
- "sha256": "e846b6282d9f65ee8fbbb19f69a60d6f050a048a4ff37345fe169f9796426416",
- "sig": "32EG2tgy8yVULQU6lybOGyBgzWOhC8EM9YfJt2f6gJhOADms/jHchxQ/DZSwtZmjlAdvu5tOsgK+qrVxTTrhBw==",
- "notes": "Boards page: see every vendo board, its rates and firmware; set rates on one or many boards with read-back and undo. Sales use each board's own rates.",
- "published": "2026-10-19T11:13:04.616Z"
+ "version": "5.12",
+ "file": "spawnpanel-5.12.pkg",
+ "size": 166554,
+ "sha256": "2a758a629545f5640bbbef5672690fd0c81f46319c3883ee83467e980d1d0bc9",
+ "sig": "bfkE7+3+Tp959daQl5g1W91ySd8kg59DxctlHMNAWx7Z5BTdYuboihf/08nBnJq4gjqBv/80o0ll17WpXZwyAQ==",
+ "notes": "Board view is automatic: the panel reads each site's board address map from the router. Boards → Board view… checks the path and gives the commands for anything missing. Includes 5.11 Boards page.",
+ "published": "2026-10-19T11:33:17.558Z"
 }
