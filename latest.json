@@ -1,10 +1,10 @@
 {
  "name": "spawnpanel",
- "version": "5.9.2",
- "file": "spawnpanel-5.9.2.pkg",
- "size": 146134,
- "sha256": "456cc3cc57da6051ca083f5641f658c2bbdfd12e322df0628856564126a1f4b7",
- "sig": "A2gjNFsHlrJWaBinBYtTJ6jzkrrHoT9pouaFajPTVI9vJ1VJ1kJkOq13Sqi4EfwXw69uXWM1BIKquWUtsHKxCQ==",
- "notes": "Phones: a Panel updates button on the Routers page (the bottom-left Updates link is hidden on small screens).",
- "published": "2026-10-17T11:18:56.638Z"
+ "version": "5.11",
+ "file": "spawnpanel-5.11.pkg",
+ "size": 157134,
+ "sha256": "e846b6282d9f65ee8fbbb19f69a60d6f050a048a4ff37345fe169f9796426416",
+ "sig": "32EG2tgy8yVULQU6lybOGyBgzWOhC8EM9YfJt2f6gJhOADms/jHchxQ/DZSwtZmjlAdvu5tOsgK+qrVxTTrhBw==",
+ "notes": "Boards page: see every vendo board, its rates and firmware; set rates on one or many boards with read-back and undo. Sales use each board's own rates.",
+ "published": "2026-10-19T11:13:04.616Z"
 }
