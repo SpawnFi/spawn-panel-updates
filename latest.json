@@ -1,10 +1,10 @@
 {
  "name": "spawnpanel",
- "version": "5.12",
- "file": "spawnpanel-5.12.pkg",
- "size": 166554,
- "sha256": "2a758a629545f5640bbbef5672690fd0c81f46319c3883ee83467e980d1d0bc9",
- "sig": "bfkE7+3+Tp959daQl5g1W91ySd8kg59DxctlHMNAWx7Z5BTdYuboihf/08nBnJq4gjqBv/80o0ll17WpXZwyAQ==",
- "notes": "Board view is automatic: the panel reads each site's board address map from the router. Boards → Board view… checks the path and gives the commands for anything missing. Includes 5.11 Boards page.",
- "published": "2026-10-19T11:33:17.558Z"
+ "version": "5.13",
+ "file": "spawnpanel-5.13.pkg",
+ "size": 168705,
+ "sha256": "17683fd166258f1dcef948990231f4a494b1b599e263cfba901de57c45e30005",
+ "sig": "Lc1eoGBEkp3z/U8yB6ILR/JRmb8xLrSX+tvnoaTORcubPx3stjrvzfIMpR3DwWRRfpRv4M0QL9Axwtp7eOTgBg==",
+ "notes": "Boards: search box with a vendo dropdown, like Vendos and Free devices. Includes 5.12.1 safety fix.",
+ "published": "2026-10-22T07:45:43.614Z"
 }
