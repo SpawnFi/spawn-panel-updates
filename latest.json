@@ -1,10 +1,10 @@
 {
  "name": "spawnpanel",
- "version": "5.13",
- "file": "spawnpanel-5.13.pkg",
- "size": 168705,
- "sha256": "17683fd166258f1dcef948990231f4a494b1b599e263cfba901de57c45e30005",
- "sig": "Lc1eoGBEkp3z/U8yB6ILR/JRmb8xLrSX+tvnoaTORcubPx3stjrvzfIMpR3DwWRRfpRv4M0QL9Axwtp7eOTgBg==",
- "notes": "Boards: search box with a vendo dropdown, like Vendos and Free devices. Includes 5.12.1 safety fix.",
- "published": "2026-10-22T07:45:43.614Z"
+ "version": "5.14",
+ "file": "spawnpanel-5.14.pkg",
+ "size": 174199,
+ "sha256": "6b9d08503cac8c0a24708ab004832b3fb0becea88d50222fc92cadc4b1e09926",
+ "sig": "HHSy6M+Iznv1E/mo7n4kewRX94ZMvfe0ag4EtvhFqvYmgVkG4sH/72CL9IeIUeP/fNNlL9ItfyfUQf669Hs+BA==",
+ "notes": "Waiting boards: every vendo board that is not connected (its .2 lease is waiting), on every router, with counts per router and search.",
+ "published": "2026-11-04T06:57:37.441Z"
 }
