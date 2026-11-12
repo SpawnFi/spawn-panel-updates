@@ -1,10 +1,10 @@
 {
  "name": "spawnpanel",
- "version": "5.16",
- "file": "spawnpanel-5.16.pkg",
- "size": 182276,
- "sha256": "524da7acbc92e8f43123a8bd3189dfebdd73487002e7949510debee3f7ea8100",
- "sig": "D18qSerfOlpEYFE9/xoYRlzRAbRqW1AnVKp2mjSqXB/DcuBhdrJwc55HLzHKeteH04nJTFUEip+dIsUQH+aADg==",
- "notes": "A router that is down never slows the panel: it is marked offline after one failed connection (or two very slow answers), every page and poller gets an answer at once, and a background check brings it back by itself. All routers and Waiting boards no longer wait on a slow router (last read shown). Sales page reads only new lines.",
- "published": "2026-11-12T05:40:50.157Z"
+ "version": "5.17",
+ "file": "spawnpanel-5.17.pkg",
+ "size": 190041,
+ "sha256": "2ef12a2beafc4ed66f3be86e98e848210e625b2245903ad7aa99fb645385f367",
+ "sig": "rrKzDpyzuiPcKOeI2+n7zZBLmj8rCCaVxh7zuRiD4aZZLrO8GVHZ5MXxuFThn1htlsLoHciE8nMlh8O2HZKdBQ==",
+ "notes": "Offline PPPoE: a new page (under Waiting boards) lists every enabled PPPoE account with no live session on every router - how long offline, last device MAC, why it dropped. Accounts that dropped within 5 minutes of each other are flagged as one group (power, fiber cut, OLT port). Nav badge = dropped in the last 7 days.",
+ "published": "2026-11-12T09:40:09.157Z"
 }
