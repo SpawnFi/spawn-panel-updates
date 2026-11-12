@@ -1,10 +1,10 @@
 {
  "name": "spawnpanel",
- "version": "5.15",
- "file": "spawnpanel-5.15.pkg",
- "size": 176338,
- "sha256": "ff4cbd236bf70404ca2ba96891d2cb390f1f1a7556d503fe6954d54b731edd97",
- "sig": "mbosjafx1hdQozINkhZh34Ec9hC9Li7RmF2DiJ2kDFrTRpjvWVgU3WsKeu0TeddSduRZkLw/uLZip75NL/i3AA==",
- "notes": "Standalone routers: a router with one hotspot on bridge-hs (no VLANs) shows as one vendo. Boards gets its rates and an Open board link (172.27.N.2), Sales lists it by name, Board view proposes a 172.27.N.0/24 per Standalone.",
- "published": "2026-11-09T11:15:17.738Z"
+ "version": "5.16",
+ "file": "spawnpanel-5.16.pkg",
+ "size": 182276,
+ "sha256": "524da7acbc92e8f43123a8bd3189dfebdd73487002e7949510debee3f7ea8100",
+ "sig": "D18qSerfOlpEYFE9/xoYRlzRAbRqW1AnVKp2mjSqXB/DcuBhdrJwc55HLzHKeteH04nJTFUEip+dIsUQH+aADg==",
+ "notes": "A router that is down never slows the panel: it is marked offline after one failed connection (or two very slow answers), every page and poller gets an answer at once, and a background check brings it back by itself. All routers and Waiting boards no longer wait on a slow router (last read shown). Sales page reads only new lines.",
+ "published": "2026-11-12T05:40:50.157Z"
 }
