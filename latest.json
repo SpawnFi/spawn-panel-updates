@@ -1,10 +1,10 @@
 {
  "name": "spawnpanel",
- "version": "5.18",
- "file": "spawnpanel-5.18.pkg",
- "size": 200881,
- "sha256": "ed0fcdb663c75c9ff368f2a59ed74b938b12297c8029fafdaef8308f60d128ad",
- "sig": "Rh0wYuS5Vak8cbnuKAG2HGz0sAFO/v8321zoOVE2cBoFe+ReocwKD1kLeQpl7HND43RqGnt4deHP5RYq3xQICA==",
- "notes": "Cloud sales record: with its own cloud token (Routers > Cloud sales record), each device uploads its sales history, board coin lists, vendo names and rate cards, and the Sales page reads the cloud - the same totals on every phone, laptop and PC, even when the office PC is off. Needs cloud setup v3. Includes v5.16 (offline router never slows the panel) and v5.17 (Offline PPPoE).",
- "published": "2026-11-18T09:44:18.356Z"
+ "version": "5.19",
+ "file": "spawnpanel-5.19.pkg",
+ "size": 212441,
+ "sha256": "dbe58d91f0318e94b1f701dc80064d11402fe538455b19ef69784442b87903dc",
+ "sig": "j1Y22sGzbhs5gZMglIa87nPAP1PiH/xaQkmCq5bpN0SwUXO2tx999Vma5quvtfWsn56wui86hyMHkIaGFKT6AQ==",
+ "notes": "Cloud size on the Cloud card (warns at 350 MB of 500 MB) and old months moved to SpawnFi Google Drive (spawnfiadmin) by the Office PC: each month is written to one file, read back and checked row by row, then the cloud keeps its daily totals and deletes the rows - totals stay the same on every device. Needs cloud setup v4.",
+ "published": "2026-11-19T10:21:35.254Z"
 }
